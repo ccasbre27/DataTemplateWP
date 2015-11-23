@@ -1,0 +1,113 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Enlace_de_Datos.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:local="clr-namespace:Enlace_de_Datos"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <Grid x:Name="grid">
+        
+        <Grid.Resources>
+           
+            <local:ViewModel x:Name="Coleccion" />
+            <local:CountryToColorConverter x:Name="ConvertidorColor" />
+            
+            <DataTemplate
+                x:Key="PersonasDataTemplate">
+                
+                <!--acá va cómo queremos que se vea cada elemento -->
+                
+                <StackPanel>
+                    
+                    <TextBlock
+                        Text="{Binding Path=Nombre}" 
+                        FontWeight="Bold"
+                        FontSize="18" />
+
+                    <TextBlock
+                        Foreground="{Binding Path=Pais,Converter={StaticResource ConvertidorColor}}"
+                        Text="{Binding Path=Pais}"/>
+                        <!-- enlazamos en el foreground para que acambie el clor del texto según el país -->
+                
+                </StackPanel>
+                
+            </DataTemplate>
+            
+            
+        </Grid.Resources>
+        
+        <StackPanel 
+            DataContext="{Binding Source={StaticResource Coleccion} }">
+                   
+            <phone:LongListSelector
+                Name="list"
+                ItemTemplate="{StaticResource PersonasDataTemplate}"
+                ItemsSource="{Binding Path=Personas}" />
+
+            <!-- con item template establecemos como deseaos que se vea cada elemnto-->
+            <Button 
+                Content="Agregar" 
+                Command="{Binding AddCommand}"/>
+
+           
+            <Grid DataContext="{Binding SelectedItem,ElementName=list}"
+                         d:DataContext="{Binding Personas[0],Source={StaticResource Coleccion}}">
+            <!-- el d:dataContex es un contexto de datos para tiempo de diseño-->
+
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+            <TextBlock 
+                Text="Nombre"
+                Grid.Row="0"
+                Grid.Column="0"/>
+
+                <TextBox 
+                x:Name="txtNombre" 
+                Text="{Binding Path=Nombre,Mode=TwoWay}" 
+                Grid.Row="0"
+                Grid.Column="1"/>
+                <!--
+             Text="{Binding Path=Pais,Source={StaticResource Persona1}}"
+            se omite el Source={StaticResource Persona1} porque el stack panel lo tiene
+            y lo hereda a los hijos,
+            si se quiere no se pone el path, nadamás Nombre y se sabe que será el Path-->
+
+
+                <TextBlock 
+                    Text="País" 
+                    Grid.Row="1"
+                    Grid.Column="0"/>
+            
+                <TextBox 
+                    x:Name="txtPais"
+                    Text="{Binding Path=Pais,Mode=TwoWay}"
+                    Grid.Row="1"
+                    Grid.Column="1"
+                   />
+                <!-- esta tambiém StringFormat = 'c' para darle formato monetario
+                TargetNullValue="N/D" para que se muestre N/D cuando el valor sea nulo
+                FallBackValue='Error' indica que se muestra cuando el enlace de datos cause un mensaje de error-->
+
+            </Grid>
+
+        </StackPanel>
+    </Grid>
+
+</phone:PhoneApplicationPage>

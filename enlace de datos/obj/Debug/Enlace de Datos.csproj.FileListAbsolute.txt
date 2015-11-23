@@ -1,0 +1,70 @@
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\Enlace de Datos.dll
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\Enlace de Datos.pdb
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\resources.pri
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\AppxManifest.xml
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\Enlace de Datos.build.appxrecipe
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\AppManifest.xaml
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\Bin\Debug\Enlace_de_Datos_Debug_AnyCPU.xap
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\App.g.cs
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\MainPage.g.cs
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\Enlace de Datos.g.resources
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\Enlace_de_Datos.Resources.AppResources.resources
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\Enlace de Datos.csproj.GenerateResource.Cache
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\Enlace de Datos.dll
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\Enlace de Datos.pdb
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\priconfig.xml
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\priconfig.xml.intermediate
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\layout.resfiles
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\layout.resfiles.intermediate
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\resources.resfiles
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\resources.resfiles.intermediate
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\pri.resfiles
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\pri.resfiles.intermediate
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\qualifiers.txt
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\qualifiers.txt.intermediate
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\ProjectArchitectures.txt
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\MDILProjectFiles.xml
+c:\users\administrador12345\documents\visual studio 2013\Projects\Enlace de Datos\Enlace de Datos\obj\Debug\XapCacheFile.xml
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\Enlace de Datos.dll
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\Enlace de Datos.pdb
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\resources.pri
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\AppxManifest.xml
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\Enlace de Datos.build.appxrecipe
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\AppManifest.xaml
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\Bin\Debug\Enlace_de_Datos_Debug_AnyCPU.xap
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\App.g.cs
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\MainPage.g.cs
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\Enlace de Datos.g.resources
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\Enlace_de_Datos.Resources.AppResources.resources
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\Enlace de Datos.csproj.GenerateResource.Cache
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\Enlace de Datos.dll
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\Enlace de Datos.pdb
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\priconfig.xml
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\priconfig.xml.intermediate
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\layout.resfiles
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\layout.resfiles.intermediate
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\resources.resfiles
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\resources.resfiles.intermediate
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\pri.resfiles
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\pri.resfiles.intermediate
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\qualifiers.txt
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\ProjectArchitectures.txt
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\MDILProjectFiles.xml
+C:\Users\Administrador12345\Documents\Visual Studio 2013\Projects\Data Templates\Enlace de Datos\obj\Debug\XapCacheFile.xml
